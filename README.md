@@ -6,8 +6,7 @@
 
 **Machine Learning Engineer** — Computer Vision · Applied AI · MLOps
 
-Graduate Researcher, [2AI Applied AI Lab](https://github.com/2ai-lab) · University of South Dakota  
-NSF Consultant · Research Associate, Dept. of Computer Science
+ Research Associate, Dept. of Computer Science USD(UNIVERSITY OF SOUTH DAKOTA)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepika-nuthalapati)
 [![USD Profile](https://img.shields.io/badge/USD%20Profile-003087?style=flat-square&logo=academia&logoColor=white)](https://www.usd.edu/research-and-faculty/faculty-and-staff/deepika-nuthalapati)
@@ -19,7 +18,7 @@ NSF Consultant · Research Associate, Dept. of Computer Science
 
 ## About
 
-I am a graduate researcher in Computer Science at the University of South Dakota, working in the **2AI Applied AI Research Lab** on NSF-funded projects. My research centers on **multimodal deep learning and computer vision** — most recently, building a spatiotemporal Vision Transformer that fuses satellite and meteorological data to analyze climate change impact in South Dakota, work that was presented at both the **USGS EROS Fall Poster Session** and the **OAK Supercomputing Conference** in 2024.
+I am a Research associate in Computer Science at the University of South Dakota, working in the **USD AI Research Lab** on NSF-funded projects. My research centers on **multimodal deep learning and computer vision** — most recently, building a spatiotemporal Vision Transformer that fuses satellite and meteorological data to analyze climate change impact in South Dakota, work that was presented at both the **USGS EROS Fall Poster Session** and the **OAK Supercomputing Conference** in 2024.
 
 Outside of research, I have spent the past year building a full-stack ML engineering portfolio — 20 end-to-end projects covering the complete lifecycle: data pipelines, model training, deployment, and monitoring. I care as much about how a model gets shipped and maintained as how it gets trained.
 
@@ -35,7 +34,6 @@ I am actively looking for my first full-time ML engineering role.
 ### Published Poster Work
 
 **Multi-Level Spatiotemporal Vision Transformer for Analyzing Climate Impact in South Dakota**  
-*with Krishna Phanindra Marupaka — University of South Dakota*
 
 Presented at two venues in 2024:
 - [USGS EROS Fall Poster Session](https://www.usgs.gov/centers/eros/news/usgs-eros-poster-session-links-students-scientists) — November 2024, Sioux Falls, SD
@@ -43,7 +41,6 @@ Presented at two venues in 2024:
 
 The work builds a multi-level spatiotemporal ViT that processes both satellite imagery and meteorological time-series data together, using cross-modal attention to capture how climate signals evolve across space and time. The model was evaluated on South Dakota land cover and climate datasets from USGS EROS.
 
-**Lab affiliation:** [USD 2AI Applied AI Research Lab](https://github.com/2ai-lab) — founded by Dr. KC Santosh, researching AI applications in healthcare informatics, medical imaging, remote sensing, and computer vision.
 
 ---
 
@@ -271,6 +268,6 @@ PyTorch model exported to ONNX, then quantized with both dynamic and static quan
 **Email:** deepika.nuthalapati@usd.edu  
 **LinkedIn:** [linkedin.com/in/deepika-nuthalapati](https://linkedin.com/in/deepika-nuthalapati)  
 **University:** [usd.edu — Deepika Nuthalapati](https://www.usd.edu/research-and-faculty/faculty-and-staff/deepika-nuthalapati)  
-**Location:** Vermillion, SD — open to remote and relocation
+**Location:** Chicago, IL — open to remote and relocation
 
 Actively seeking full-time ML engineering roles.
